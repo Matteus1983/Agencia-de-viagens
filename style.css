@@ -57,3 +57,8 @@ a {
     border: 1px solid #ECEFF2;
     margin: 0 auto 16px;
 }
+#wave {
+    width: 100%;
+    bottom: 0px;
+    right: 0px;
+}
